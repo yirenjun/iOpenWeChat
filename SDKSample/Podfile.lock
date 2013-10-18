@@ -1,0 +1,14 @@
+PODS:
+  - iOpenWeChat (1.4.2)
+
+DEPENDENCIES:
+  - iOpenWeChat (from `../`)
+
+EXTERNAL SOURCES:
+  iOpenWeChat:
+    :path: ../
+
+SPEC CHECKSUMS:
+  iOpenWeChat: 3a145e699521766bafc7835cdfa5958ae54c5c33
+
+COCOAPODS: 0.26.2
