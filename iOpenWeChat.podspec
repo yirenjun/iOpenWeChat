@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
                           }
   s.author              = { "weixinapp" => "weixinapp@qq.com" }
   s.platform            = :ios
-  s.source              = { :git => 'https://github.com/yirenjun/iOpenWeChat.git', :tag => 'v#{s.version.to_s}' }
+  s.source              = { :git => "https://github.com/yirenjun/iOpenWeChat.git", :tag => "v#{s.version.to_s}" }
   s.source_files        = 'SDKExport/*.{h,m}'
   s.vendored_libraries  = 'SDKExport/libWeChatSDK.a'
 end
