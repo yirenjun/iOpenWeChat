@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                = "iOpenWeChat"
-  s.version             = "1.4.2"
+  s.version             = "1.5.0"
   s.summary             = "微信开放平台SDK"
   s.description         = <<-DESC
                           自建关系链？网络营销？App Store SEO？不用了！成为微信开放平台开发者，让拥有亿级用户的微信平台成为你的免费推广平台，让用户帮你口碑营销。下载数、活跃数、评价数、网站流量，一切都来得那么自然。
